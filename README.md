@@ -1,7 +1,16 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<h1 align="center">Hi 👋, I'm Sandeep Sathsara</h1>
+<h3 align="center">A passionate frontend developer from Srilanka</h3>
 
-# Hello World!, I'm Tobi, a German Web Developer 👋🏼:
-🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
+- 🔭 I’m currently working on **KidsGrow project**
+
+- 🌱 I’m currently learning **Flutter , React**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sathsara sandeep mahindasoma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sathsara sandeep mahindasoma" height="30" width="40" /></a>
+<a href="https://fb.com/sathsara sandeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sathsara sandeep" height="30" width="40" /></a>
+<a href="https://instagram.com/sathsara_sandeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sathsara_sandeep" height="30" width="40" /></a>
+</p>
 
 
 # 💻 Tech Stack:
