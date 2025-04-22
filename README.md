@@ -55,12 +55,6 @@
 
 ---
 
-### 📊 GitHub Stats & Activity  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SathsaraSandeep&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SathsaraSandeep&theme=tokyonight&hide_border=true" width="47%" />
-</p>
-
 ---
 
 ### 📈 Most Used Languages  
@@ -70,7 +64,7 @@
 
 ---
 
-### 🐍 GitHub Snake Animation  
+### 🐍 Snake Eating My Contribution Graph
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
