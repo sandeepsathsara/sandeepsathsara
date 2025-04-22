@@ -8,7 +8,7 @@
 ---
 
 - 🔭 Currently working on: **LinkUP** - a smart event discovery app  
-- 🌱 Exploring: **Flutter**, **React**, **Python**, **Socket.IO**, **MongoDB**  
+- 🌱 Exploring: **Flutter**, **Flutter**, **ReactJs**, **Socket.IO**, **MongoDB**  
 - 💬 Talk to me about: **Mobile apps**, **Frontend development**, **UI/UX**, **Tech Startups**  
 - 🚀 Aspiring to become a **Full-Stack Mobile App Engineer**  
 - ✨ Motto: *"Design it like Apple, build it like Google."*
