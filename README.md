@@ -1,6 +1,6 @@
 <!-- GitHub Profile README -->
 
-# 👋 Hey, I'm [Your Name]  
+# 👋 Hey, I'm [Sathsara Sandeep]  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Flutter+Developer;Web+Developer;Tech+Enthusiast;Passionate+about+UI%2FUX)](https://git.io/typing-svg)
 
