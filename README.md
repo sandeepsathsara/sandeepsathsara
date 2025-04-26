@@ -10,8 +10,7 @@
 - 🔭 Currently building beautiful **Flutter apps** and responsive **web apps**.
 - 🧠 Exploring new tech trends and best practices.
 - 💬 Ask me about **Flutter**, **Web Development**, or **Modern UI/UX**.
-- 📫 Reach me: [your.email@example.com](mailto:your.email@example.com)
-
+- 📫 Reach me: [kmsathsarasmahindasoma@gmail.com](mailto:kmsathsarasmahindasoma@gmail.com)
 ---
 
 ## 🛠️ My Tech Stack
