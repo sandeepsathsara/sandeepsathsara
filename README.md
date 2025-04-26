@@ -21,16 +21,6 @@
 ---
 
 
-
-## ✨ Featured Projects
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| [**AwesomeApp**](#) | Cross-platform mobile app to manage daily tasks. | Flutter, Firebase |
-| [**WebPortfolio**](#) | Sleek and modern personal portfolio website. | HTML, CSS, JavaScript |
-| [**E-Commerce UI Kit**](#) | A stylish Flutter UI kit for shopping apps. | Flutter, Dart |
-
----
-
 ## 📫 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/sathsara-sandeep-477902329/" target="_blank">
